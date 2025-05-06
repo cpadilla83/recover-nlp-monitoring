@@ -93,3 +93,43 @@ Maestría en Inteligencia Artificial Aplicada
 
 Este proyecto es de uso académico y corporativo privado. No redistribuir sin autorización del autor.
 
+
+
+---
+
+## 📥 Clonar este repositorio
+
+Puedes clonar este proyecto y ejecutarlo localmente así:
+
+```bash
+git clone https://github.com/cpadilla83/recover-nlp-monitoring.git
+cd recover-nlp-monitoring
+```
+
+> Reemplaza `tu-usuario` por tu nombre de usuario real en GitHub.
+
+---
+
+## 🧪 Configuración rápida del entorno
+
+```bash
+# Crear entorno virtual
+python -m venv venv
+venv\Scripts\activate  # Windows
+
+# Instalar dependencias
+pip install -r requirements.txt
+
+# Ejecutar la aplicación web
+streamlit run app.py
+```
+
+---
+
+## 🗂️ Estructura importante
+
+- `data/`: audios y resultados (se genera automáticamente)
+- `assets/logo.png`: imagen del logo de Recover
+- `app.py`: interfaz gráfica
+- `analizar_lote.py`: script de análisis por lote
+
