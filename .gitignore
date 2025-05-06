@@ -1,0 +1,32 @@
+
+# Entorno virtual
+venv/
+ENV/
+.env/
+.venv/
+
+# Archivos de sistema
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales o locales
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Archivos de audio y resultados generados
+data/*.mp3
+data/*.wav
+data/*.csv
+
+# Archivos específicos de configuración
+*.sqlite3
+*.db
+
+# Archivos de VSCode
+.vscode/
