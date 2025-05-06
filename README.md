@@ -102,7 +102,7 @@ Este proyecto es de uso académico y corporativo privado. No redistribuir sin au
 Puedes clonar este proyecto y ejecutarlo localmente así:
 
 ```bash
-git clone https://github.com/cpadilla83/recover-nlp-monitoring.git
+git clone https://github.com/tu-usuario/recover-nlp-monitoring.git
 cd recover-nlp-monitoring
 ```
 
