@@ -20,9 +20,9 @@ __pycache__/
 Thumbs.db
 
 # Archivos de audio y resultados generados
-data/*.mp3
-data/*.wav
-data/*.csv
+# data/*.mp3
+# data/*.wav
+# data/*.csv
 
 # Archivos específicos de configuración
 *.sqlite3
