@@ -48,7 +48,7 @@ recover-nlp-monitoring/
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tuusuario/recover-nlp-monitoring.git
+git clone https://github.com/cpadilla83/recover-nlp-monitoring.git
 cd recover-nlp-monitoring
 
 # Crea entorno virtual
@@ -102,11 +102,10 @@ Este proyecto es de uso académico y corporativo privado. No redistribuir sin au
 Puedes clonar este proyecto y ejecutarlo localmente así:
 
 ```bash
-git clone https://github.com/tu-usuario/recover-nlp-monitoring.git
+git clone https://github.com/cpadilla83/recover-nlp-monitoring.git
 cd recover-nlp-monitoring
 ```
 
-> Reemplaza `tu-usuario` por tu nombre de usuario real en GitHub.
 
 ---
 
